@@ -44,6 +44,16 @@ bq_schema = [
         "name": "is_angledwing",
         "type": "BOOLEAN",
         "mode": "NULLABLE"
+    },
+    {
+        "name": "latitude",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "longitude",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
     }
 ]
 
